@@ -1,5 +1,2 @@
 # Test_R
-Testing my setup
-
-test an edit/push
-test another edit!
+Just getting used to R on github. hopefully will create a repository of my R based conceptual site modeling tools
